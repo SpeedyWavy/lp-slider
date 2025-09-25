@@ -94,7 +94,7 @@ function App() {
       </section>
       <section className="destaque">
         <div className="desta">
-        <iframe src="https://www.youtube.com/embed/t4ZJv5zxE4I?autoplay=1&mute=1&controls=0&loop=1&playlist=t4ZJv5zxE4I&modestbranding=1&showinfo=0" frameborder="0" allow="autoplay; fullscreen"></iframe>
+        <iframe src="https://www.youtube.com/embed/t4ZJv5zxE4I?si=cEc3nX20kyDKy-w?autoplay=1&mute=1&controls=0&loop=1&playlist=t4ZJv5zxE4I&modestbranding=1&showinfo=0" frameborder="0" allow="autoplay; fullscreen"></iframe>
           <img src={produto3} alt="" />
           <h2>PIBBLES CAMINHONEIRO!!</h2>
           <p id='destaque'>Nosso UNICO Produto item de Colecionador!</p>
